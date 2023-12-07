@@ -3,7 +3,7 @@ package Day1;
 import java.io.FileReader;
 import java.util.Scanner;
 
-public class Day1Main{
+public class Day1Part1Main {
     public static void main(String[] args){
         int lineCounter = 1;
         String line;
