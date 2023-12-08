@@ -11,7 +11,7 @@ public class Day1Part2Main {
         int sum = 0;
         try {
             //filepath, filereader, scanner in
-            String filePath = "C:\\Users\\gregt\\IdeaProjects\\AdventofCode2023\\src\\Day1\\Day1Text.txt";
+            String filePath = "src\\Day1\\Day1Text.txt";
             FileReader fr = new FileReader(filePath);
             Scanner in = new Scanner(fr);
             while (in.hasNextLine()) {
